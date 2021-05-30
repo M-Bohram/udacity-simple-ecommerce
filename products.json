@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://www.joma-sport.com/files/0001/jomabeta987543098359809538245098/web.system/assets/products/20171106171651.100913.700.jpg",
+      "name": "Blue Shirt",
+      "price": 240
+    },
+    {
+      "id": 2,
+      "img": "https://cf3.s3.souqcdn.com/item/2020/08/11/13/16/48/80/3/item_XXL_131648803_c88fb697ed061.jpg",
+      "name": "Blue Shoes",
+      "price": 2400
+    },
+    {
+      "id": 3,
+      "img": "https://cf3.s3.souqcdn.com/item/2015/03/02/78/94/68/8/item_XXL_7894688_7052226.jpg",
+      "name": "Diesel watch",
+      "price": 3200
+    },
+    {
+      "id": 4,
+      "img": "https://cf4.s3.souqcdn.com/item/2020/06/11/13/09/88/59/4/item_XL_130988594_8113c2bf69009.jpg",
+      "name": "Samsung Galaxy A21S",
+      "price": 3199
+    }
+  ]
+}
